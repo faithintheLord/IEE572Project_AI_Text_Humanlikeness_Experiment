@@ -1,0 +1,1419 @@
+{
+  "SurveyEntry": {
+    "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+    "SurveyName": "AI_Text_Ranking_2x2x2",
+    "SurveyOwnerID": "UR_AI",
+    "SurveyBrandID": "AI",
+    "DivisionID": null,
+    "SurveyVersion": "1",
+    "SurveyActiveResponseSet": "RS_1",
+    "SurveyStatus": "Active",
+    "SurveyStartDate": "2025-11-21T04:23:07Z",
+    "SurveyCreationDate": "2025-11-21T04:23:07Z",
+    "CreatorID": "UR_AI",
+    "LastModified": "2025-11-21T04:23:07Z"
+  },
+  "SurveyElements": [
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_A1",
+      "SecondaryAttribute": "News Order 1",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "News Order 1",
+        "ID": "BL_A1",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_A1",
+            "Description": "News Order 1"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_A2",
+      "SecondaryAttribute": "News Order 2",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "News Order 2",
+        "ID": "BL_A2",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_A2",
+            "Description": "News Order 2"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_A3",
+      "SecondaryAttribute": "News Order 3",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "News Order 3",
+        "ID": "BL_A3",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_A3",
+            "Description": "News Order 3"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_A4",
+      "SecondaryAttribute": "News Order 4",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "News Order 4",
+        "ID": "BL_A4",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_A4",
+            "Description": "News Order 4"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_B1",
+      "SecondaryAttribute": "Fiction Order 1",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "Fiction Order 1",
+        "ID": "BL_B1",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_B1",
+            "Description": "Fiction Order 1"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_B2",
+      "SecondaryAttribute": "Fiction Order 2",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "Fiction Order 2",
+        "ID": "BL_B2",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_B2",
+            "Description": "Fiction Order 2"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_B3",
+      "SecondaryAttribute": "Fiction Order 3",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "Fiction Order 3",
+        "ID": "BL_B3",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_B3",
+            "Description": "Fiction Order 3"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "BL",
+      "PrimaryAttribute": "BL_B4",
+      "SecondaryAttribute": "Fiction Order 4",
+      "TertiaryAttribute": null,
+      "Payload": {
+        "Type": "Standard",
+        "SubType": "",
+        "Description": "Fiction Order 4",
+        "ID": "BL_B4",
+        "BlockElements": [
+          {
+            "Type": "Question",
+            "QuestionID": "QID_B4",
+            "Description": "Fiction Order 4"
+          }
+        ]
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_A1",
+      "SecondaryAttribute": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_A1",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE]",
+            "VariableName": "news_gpt5_50",
+            "Recode": "11"
+          },
+          "2": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE]",
+            "VariableName": "news_gpt5_150",
+            "Recode": "12"
+          },
+          "3": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_50",
+            "Recode": "13"
+          },
+          "4": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_150",
+            "Recode": "14"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "11",
+          "2": "12",
+          "3": "13",
+          "4": "14"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_A1",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_A2",
+      "SecondaryAttribute": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_A2",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE]",
+            "VariableName": "news_gpt5_150",
+            "Recode": "12"
+          },
+          "2": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_50",
+            "Recode": "13"
+          },
+          "3": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_150",
+            "Recode": "14"
+          },
+          "4": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE]",
+            "VariableName": "news_gpt5_50",
+            "Recode": "11"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "12",
+          "2": "13",
+          "3": "14",
+          "4": "11"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_A2",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_A3",
+      "SecondaryAttribute": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_A3",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_50",
+            "Recode": "13"
+          },
+          "2": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_150",
+            "Recode": "14"
+          },
+          "3": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE]",
+            "VariableName": "news_gpt5_50",
+            "Recode": "11"
+          },
+          "4": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE]",
+            "VariableName": "news_gpt5_150",
+            "Recode": "12"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "13",
+          "2": "14",
+          "3": "11",
+          "4": "12"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_A3",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_A4",
+      "SecondaryAttribute": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 News texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_A4",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_150",
+            "Recode": "14"
+          },
+          "2": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE]",
+            "VariableName": "news_gpt5_50",
+            "Recode": "11"
+          },
+          "3": {
+            "Display": "[PASTE_NEWS_150_TEXT_HERE]",
+            "VariableName": "news_gpt5_150",
+            "Recode": "12"
+          },
+          "4": {
+            "Display": "[PASTE_NEWS_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "news_gemini_50",
+            "Recode": "13"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "14",
+          "2": "11",
+          "3": "12",
+          "4": "13"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_A4",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_B1",
+      "SecondaryAttribute": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_B1",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_50",
+            "Recode": "21"
+          },
+          "2": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_50",
+            "Recode": "23"
+          },
+          "3": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_150",
+            "Recode": "22"
+          },
+          "4": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_150",
+            "Recode": "24"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "21",
+          "2": "23",
+          "3": "22",
+          "4": "24"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_B1",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_B2",
+      "SecondaryAttribute": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_B2",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_50",
+            "Recode": "23"
+          },
+          "2": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_150",
+            "Recode": "22"
+          },
+          "3": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_150",
+            "Recode": "24"
+          },
+          "4": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_50",
+            "Recode": "21"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "23",
+          "2": "22",
+          "3": "24",
+          "4": "21"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_B2",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_B3",
+      "SecondaryAttribute": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_B3",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_150",
+            "Recode": "22"
+          },
+          "2": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_150",
+            "Recode": "24"
+          },
+          "3": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_50",
+            "Recode": "21"
+          },
+          "4": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_50",
+            "Recode": "23"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "22",
+          "2": "24",
+          "3": "21",
+          "4": "23"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_B3",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "SQ",
+      "PrimaryAttribute": "QID_B4",
+      "SecondaryAttribute": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+      "TertiaryAttribute": "1",
+      "Payload": {
+        "QuestionText": "Rank the 4 Fiction texts by human-likeness (1 = most human-like … 4 = least). No ties.",
+        "DefaultChoices": false,
+        "DataExportTag": "QID_B4",
+        "QuestionType": "RO",
+        "Selector": "RO",
+        "SubSelector": "DRAG_AND_DROP",
+        "Configuration": {
+          "QuestionDescriptionOption": "UseText"
+        },
+        "Validation": {
+          "Settings": {
+            "ForceResponse": "OFF",
+            "Type": "",
+            "RO": {
+              "Type": "NoTie",
+              "ForceRank": "ON"
+            }
+          }
+        },
+        "GradingData": [],
+        "Language": [],
+        "NextChoiceId": 5,
+        "NextAnswerId": 1,
+        "Choices": {
+          "1": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_150",
+            "Recode": "24"
+          },
+          "2": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_50",
+            "Recode": "21"
+          },
+          "3": {
+            "Display": "[PASTE_FICTION_50_TEXT_HERE_FROM_GEMINI]",
+            "VariableName": "fiction_gemini_50",
+            "Recode": "23"
+          },
+          "4": {
+            "Display": "[PASTE_FICTION_150_TEXT_HERE]",
+            "VariableName": "fiction_gpt5_150",
+            "Recode": "22"
+          }
+        },
+        "ChoiceOrder": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "Randomization": {
+          "Advanced": {
+            "FixedOrder": [
+              1,
+              2,
+              3,
+              4
+            ],
+            "Randomize": false
+          }
+        },
+        "RecodeValues": {
+          "1": "24",
+          "2": "21",
+          "3": "23",
+          "4": "22"
+        },
+        "RecodeValuesEnabled": true,
+        "QuestionID": "QID_B4",
+        "DataVisibility": {
+          "Private": false,
+          "Hidden": false
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "FL",
+      "PrimaryAttribute": "FL_ROOT",
+      "SecondaryAttribute": "Survey Flow",
+      "Payload": {
+        "Type": "Root",
+        "FlowID": "FL_ROOT",
+        "Flow": [
+          {
+            "Type": "Randomizer",
+            "FlowID": "FL_RANDOMIZER",
+            "EvenPresentation": 1,
+            "Flow": [
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_1",
+                "Description": "Form F1",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_1",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "1"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "A-B"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "1"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_1_1",
+                    "ID": "BL_A1"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_1_2",
+                    "ID": "BL_B1"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_2",
+                "Description": "Form F2",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_2",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "2"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "A-B"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "2"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_2_1",
+                    "ID": "BL_A2"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_2_2",
+                    "ID": "BL_B2"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_3",
+                "Description": "Form F3",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_3",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "3"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "A-B"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "3"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_3_1",
+                    "ID": "BL_A3"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_3_2",
+                    "ID": "BL_B3"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_4",
+                "Description": "Form F4",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_4",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "4"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "A-B"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "4"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_4_1",
+                    "ID": "BL_A4"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_4_2",
+                    "ID": "BL_B4"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_5",
+                "Description": "Form F5",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_5",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "5"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "B-A"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "1"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_5_1",
+                    "ID": "BL_B1"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_5_2",
+                    "ID": "BL_A1"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_6",
+                "Description": "Form F6",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_6",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "6"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "B-A"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "2"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_6_1",
+                    "ID": "BL_B2"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_6_2",
+                    "ID": "BL_A2"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_7",
+                "Description": "Form F7",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_7",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "7"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "B-A"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "3"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_7_1",
+                    "ID": "BL_B3"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_7_2",
+                    "ID": "BL_A3"
+                  }
+                ]
+              },
+              {
+                "Type": "Group",
+                "FlowID": "FL_FORM_8",
+                "Description": "Form F8",
+                "Flow": [
+                  {
+                    "Type": "EmbeddedData",
+                    "FlowID": "FL_ED_8",
+                    "EmbeddedData": [
+                      {
+                        "Field": "FORM",
+                        "Type": "Custom",
+                        "Value": "8"
+                      },
+                      {
+                        "Field": "SET_ORDER",
+                        "Type": "Custom",
+                        "Value": "B-A"
+                      },
+                      {
+                        "Field": "A_ORDER",
+                        "Type": "Custom",
+                        "Value": "4"
+                      },
+                      {
+                        "Field": "B_ORDER",
+                        "Type": "Custom",
+                        "Value": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_8_1",
+                    "ID": "BL_B4"
+                  },
+                  {
+                    "Type": "Block",
+                    "FlowID": "FL_FORM_8_2",
+                    "ID": "BL_A4"
+                  }
+                ]
+              }
+            ],
+            "SubSet": 8
+          }
+        ],
+        "Properties": {
+          "Count": 1
+        }
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "OP",
+      "PrimaryAttribute": "Survey Options",
+      "SecondaryAttribute": null,
+      "Payload": {
+        "BackButton": "false",
+        "SaveAndContinue": "true",
+        "SurveyProtection": "Public",
+        "BallotBoxStuffingPrevention": "false",
+        "SurveyExpiration": null,
+        "SurveyLanguage": "EN",
+        "SurveyName": "AI_Text_Ranking_2x2x2"
+      }
+    },
+    {
+      "SurveyID": "SV_AI_Text_Ranking_2x2x2",
+      "Element": "QT",
+      "PrimaryAttribute": "Quotas",
+      "SecondaryAttribute": null,
+      "Payload": {
+        "Quotas": [
+          {
+            "Description": "FORM 1",
+            "QuotaID": "Quota_FORM_1",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "1"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 2",
+            "QuotaID": "Quota_FORM_2",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "2"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 3",
+            "QuotaID": "Quota_FORM_3",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "3"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 4",
+            "QuotaID": "Quota_FORM_4",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "4"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 5",
+            "QuotaID": "Quota_FORM_5",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "5"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 6",
+            "QuotaID": "Quota_FORM_6",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "6"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 7",
+            "QuotaID": "Quota_FORM_7",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "7"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          },
+          {
+            "Description": "FORM 8",
+            "QuotaID": "Quota_FORM_8",
+            "Logic": [
+              {
+                "LogicType": "EmbeddedData",
+                "Field": "FORM",
+                "Operator": "EqualTo",
+                "Value": "8"
+              }
+            ],
+            "QuotaAction": "EndSurvey",
+            "Count": 2,
+            "Occurrences": "Once",
+            "QuotaLogicType": "Simple",
+            "DisplayLogic": [],
+            "Exceeded": {
+              "LogicType": "Action",
+              "Action": "EndSurvey",
+              "MessageLibraryID": null,
+              "MessageID": "MS_Closed"
+            }
+          }
+        ],
+        "OnBlockedMessage": "MS_Closed"
+      }
+    }
+  ]
+}
